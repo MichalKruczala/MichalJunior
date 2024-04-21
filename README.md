@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalkruczala&label=Profile%20views&color=0e75b6&style=flat" alt="michalkruczala" /> </p>
 
-- 🔭 I’m currently working on [DynatraceInternship](https://github.com/MichalKruczala/DynatraceInternship)
+- 🔭 I’m currently working on [Remitly](https://github.com/MichalKruczala/Remitly)
 
 - 🌱 I’m currently learning **React**
 
